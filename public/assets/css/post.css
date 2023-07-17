@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: gray;
+    padding: 6px;
+    height: 60px;
+    line-height: 45px;
+}
+ul{
+    justify-items: center;
+    display: flex;
+    list-style: none;
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    font-family: serif;
+}
